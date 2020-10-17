@@ -2,18 +2,6 @@
       
       //DOM: DOCUMENT OBJECT MODEL
 
-    //   window.onload = run;
-
-    //   function run() {
-    //   //document.getElementById("test").innerHTML = "found it";
-    //   alert('Page fully loaded');
-    //   }
-
-    //   window.addEventListener('load', 
-    //  function() { 
-    //    alert('hello!');
-    //  }, false);
-
       //ACCESO AL DOM A TRAVÉS DEL ID:
       let h1 = document.getElementById("titulo");
       //console.log(h1);
